@@ -1,2 +1,12 @@
 # Propensi-HQMIS
-Propensi is a compulsory subject for Information Systems students of Faculty of Computer Science, UI
+Kelompok B 8
+
+Development Team :
+- Amira Taliya 
+- Altariqh Dwiatmadja 
+- Irawan Firmansyah
+- Jessica Alexia Jaury
+- Stanley Sebastian
+
+Asisten Dosen :
+- Lintang Matahari Hasani
